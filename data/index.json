@@ -1,0 +1,29 @@
+{
+  "matieres": [
+    {
+      "nom": "Sémiologie",
+      "slug": "semio",
+      "file": "data/matiere_semio.json"
+    },
+    {
+      "nom": "Anatomie Pathologique",
+      "slug": "anatpath",
+      "file": "data/matiere_anatpath.json"
+    },
+    {
+      "nom": "Radiologie",
+      "slug": "radio",
+      "file": "data/matiere_radio.json"
+    },
+    {
+      "nom": "Parasito-Myco-MI",
+      "slug": "parasitomi",
+      "file": "data/matiere_parasitomi.json"
+    },
+    {
+      "nom": "Pharmacologie & Toxicologie",
+      "slug": "pharmatoxico",
+      "file": "data/matiere_pharmatoxico.json"
+    }
+  ]
+}

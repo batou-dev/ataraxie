@@ -1,0 +1,78 @@
+/* ============================================================
+   ATARAXIE — Luxury Edition — Polices
+   ============================================================ */
+
+/* Cormorant Garamond — chargé depuis Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500;1,600&display=swap');
+
+/* ① DM Mono — Light 300 */
+@font-face {
+  font-family: 'DM Mono';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('../fonts/dm-mono-v16-latin-300.woff2') format('woff2');
+}
+
+/* ① DM Mono — Regular 400 */
+@font-face {
+  font-family: 'DM Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/dm-mono-v16-latin-regular.woff2') format('woff2');
+}
+
+/* ① DM Mono — Medium 500 */
+@font-face {
+  font-family: 'DM Mono';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('../fonts/dm-mono-v16-latin-500.woff2') format('woff2');
+}
+
+/* ① DM Mono — Italic 400 */
+@font-face {
+  font-family: 'DM Mono';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/dm-mono-v16-latin-italic.woff2') format('woff2');
+}
+
+/* ② Inter — Light 300 */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('../fonts/inter-v20-latin-300.woff2') format('woff2');
+}
+
+/* ② Inter — Regular 400 */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/inter-v20-latin-regular.woff2') format('woff2');
+}
+
+/* ② Inter — Medium 500 */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('../fonts/inter-v20-latin-500.woff2') format('woff2');
+}
+
+/* ② Inter — SemiBold 600 */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('../fonts/inter-v20-latin-600.woff2') format('woff2');
+}
