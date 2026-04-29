@@ -19,6 +19,8 @@
                 "Le parasite tire profit (nutriments) et l'hôte subit un dommage (maladie)."
               ],
               "reponses": [
+                0,
+                1,
                 4
               ]
             },
@@ -55,9 +57,7 @@
               ],
               "reponses": [
                 0,
-                3,
                 4,
-                5,
                 7,
                 11
               ]
