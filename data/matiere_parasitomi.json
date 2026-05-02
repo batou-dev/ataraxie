@@ -145,7 +145,6 @@
                 0,
                 6,
                 7,
-                12,
                 13,
                 17,
                 18
@@ -183,7 +182,7 @@
                 "Les cestodes sont des vers plats non segmentés"
               ],
               "reponses": [
-                0
+              
               ]
             },
             {
@@ -273,6 +272,7 @@
                 "La coloration de Ziehl Neelsen modifiée est indiquée pour la recherche des oocytes de Cryptosporidium"
               ],
               "reponses": [
+                1,
                 2,
                 3,
                 5,
@@ -321,8 +321,7 @@
                 "Les méthodes mixtes combinent 2 techniques physiques"
               ],
               "reponses": [
-                0,
-                2
+                0
               ]
             },
             {
@@ -527,9 +526,11 @@
                 2,
                 4,
                 8,
+                9,
                 10,
                 12,
                 19,
+                21,
                 23,
                 24
               ]
