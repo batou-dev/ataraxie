@@ -2107,7 +2107,7 @@
               ],
               "reponses": [
                 1,
-                4
+                3
               ]
             },
             {
@@ -2221,7 +2221,7 @@
                 "Le tachyzoite a une forme de croissant ayant un metabolisme ralenti",
                 "Le bradyzoite est la forme de latence",
                 "Oocystes sont le resultat de la reproduction sexuee",
-                "Un oocyst ne sonloulent 2 sporocytes contenant chacun Sporozoites",
+                "Un oocyst contient 2 sporocytes contenant chacun Sporozoites",
                 "Est un protozoaire intracellularle",
                 "Le tachyzoite est le toxoplasme actif",
                 "Les oocystes resultent de la reproduction asexuee chez le chat.",
@@ -2235,15 +2235,15 @@
                 "Dont I'infection peut etre grave chez le sujet immunodeprime."
               ],
               "reponses": [
+                0,
                 1,
                 2,
                 5,
-                6,
                 7,
                 8,
+                9,
                 10,
                 11,
-                12,
                 13,
                 15,
                 17,
@@ -2287,7 +2287,9 @@
                 12,
                 13,
                 14,
+                15,
                 16,
+                19,
                 20
               ]
             },
@@ -2301,7 +2303,6 @@
                 "Peut être transmis à l'homme par ingestion de Viande peu cuite"
               ],
               "reponses": [
-                0,
                 2,
                 3
               ]
@@ -2388,6 +2389,7 @@
                 11,
                 12,
                 14,
+                15,
                 16,
                 17,
                 18,
@@ -2478,9 +2480,8 @@
                 "le taux d'avidité des IgG est nécessaire pour dater l'infection"
               ],
               "reponses": [
-                0,
-                2,
-                3
+                3,
+                4
               ]
             },
             {
@@ -2564,6 +2565,7 @@
               ],
               "reponses": [
                 2,
+                3,
                 4
               ]
             },
@@ -2618,8 +2620,7 @@
                 "confirmation sur un deuxième prélèvement à 15 jours d'intervalle"
               ],
               "reponses": [
-                1,
-                4
+                 4
               ],
               "cas_clinique": "Cas clinique 1 — Patiente âgée de 25 ans primipare, à 12 SA. Résultats de la sérologie de toxoplasmose : IgG (+) et IgM (+).",
               "enonce": "Cas clinique 1 — Patiente âgée de 25 ans primipare, à 12 SA. Les résultats de la sérologie de toxoplasmose révèlent des IgG (+) et des IgM (+)."
@@ -2735,8 +2736,7 @@
                 "le bilan est fait après disparition des IgM"
               ],
               "reponses": [
-                1,
-                4
+                1
               ],
               "cas_clinique": "Cas clinique 5 — Femme enceinte au 1er trimestre, statut sérologique inconnu avant la grossesse. Bilan 1 : IgM (-), IgG (+) > 300 UI/mL. Bilan 2 à 2 semaines : IgG à 900 UI/mL. Test d'avidité des IgG : < 0,4.",
               "enonce": "Cas clinique 5 — Femme enceinte au premier trimestre de grossesse, qui consulte pour la première fois, sans statut sérologique connu avant la grossesse. Le premier bilan montre des IgM (-) et des IgG (+) > 300 UI/mL. Un deuxième bilan à 2 semaines objectivait un taux d'IgG à 900 UI/mL. Le test d'avidité des IgG est < 0,4."
@@ -2838,7 +2838,8 @@
                 "Prévoir une recherche d'ADN dans le liquide amniotique"
               ],
               "reponses": [
-                1
+                1,
+                3
               ],
               "cas_clinique": "Cas clinique 7 (suite) — Au cours des contrôles sérologiques suivants, la patiente présente des IgG (-) et des IgM (+). Le contrôle après 2 semaines montre la disparition des IgM.",
               "enonce": "Cas clinique 7 (suite) — Chez la même patiente, au cours des contrôles sérologiques suivants, elle présente des IgG (-) et des IgM (+). Le contrôle après 2 semaines sur un deuxième prélèvement montre la disparition des IgM."
