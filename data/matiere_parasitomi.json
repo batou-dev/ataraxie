@@ -1847,7 +1847,6 @@
                 "Les hématies hébergeant le parasite sont augmentées de volume"
               ],
               "reponses": [
-                0,
                 1,
                 2
               ]
@@ -1863,7 +1862,6 @@
               ],
               "reponses": [
                 0,
-                1,
                 2,
                 3
               ]
@@ -1929,9 +1927,11 @@
               ],
               "reponses": [
                 2,
-                4,
                 6,
                 9,
+                10,
+                13,
+                17,
                 18
               ]
             },
