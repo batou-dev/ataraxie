@@ -5878,7 +5878,9 @@
               "options": [
                 "Est une toxii-infection due à la diffusion dans l'organisme de la toxine érythrogène le plus souvent du streptocoque B hémolytique du groupe A",
                 "Maladie non contagieuse",
-                "Rare chez l'adulte et fréquente chez l'enfant"
+                "Rare chez l'adulte et fréquente chez l'enfant",
+                "Transmission par voie aérienne",
+                 "L'éruption cutanée se fait en une seule poussée"
               ],
               "reponses": [
                 0,
