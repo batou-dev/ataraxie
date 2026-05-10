@@ -4616,12 +4616,13 @@
               "options": [
                 "Des hémocultures sur milieux spécifiques",
                 "La recherche d'antigènes mannanes par technique ELISA",
-                "La recherche d'anticorps anti-Candida sériques"
+                "La recherche d'anticorps anti-Candida sériques",
+                " Une numération formule sanguine",
+                "Electrophorèse des protéines"
               ],
               "reponses": [
                 0,
-                1,
-                2
+                1
               ]
             },
             {
