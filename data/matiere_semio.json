@@ -1656,6 +1656,7 @@
                 "Une marche avec élargissement du polygone de sustentation"
               ],
               "reponses": [
+                1,
                 2,
                 4,
                 6,
@@ -1711,6 +1712,7 @@
                 0,
                 1,
                 5,
+                7,
                 11,
                 13,
                 16
@@ -5963,8 +5965,7 @@
               "reponses": [
                 0,
                 2,
-                3,
-                4
+                3
               ],
               "enonce": ""
             },
@@ -9274,7 +9275,6 @@
               ],
               "reponses": [
                 0,
-                1,
                 3
               ],
               "enonce": ""
@@ -9290,7 +9290,6 @@
               ],
               "reponses": [
                 0,
-                3,
                 4
               ],
               "enonce": ""
@@ -9435,6 +9434,8 @@
               ],
               "reponses": [
                 1,
+                3,
+                4,
                 7,
                 8
               ],
